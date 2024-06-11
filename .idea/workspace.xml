@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a80996a-d594-4b80-965e-f34ebc8a9101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/shape/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/shape/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/shape/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/brainacad_org/ShapeTest.java" afterDir="false" />
+    <list default="true" id="9a80996a-d594-4b80-965e-f34ebc8a9101" name="Changes" comment="#Task Сделано задание 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/brainacad_org/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/brainacad_org/CurrencyConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -81,11 +72,24 @@
       <workItem from="1706447894938" duration="2756000" />
       <workItem from="1709049300392" duration="1266000" />
       <workItem from="1709147743478" duration="138000" />
-      <workItem from="1718100540393" duration="3880000" />
+      <workItem from="1718100540393" duration="6724000" />
     </task>
+    <task id="LOCAL-00001" summary="#Task Сделано задание 1">
+      <option name="closed" value="true" />
+      <created>1718107378854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718107378854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#Task Сделано задание 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Task Сделано задание 1" />
   </component>
 </project>
